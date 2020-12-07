@@ -1,2 +1,1 @@
-# -
 Zhongshan Power Plant
